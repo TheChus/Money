@@ -1,0 +1,5 @@
+{
+  "name": "Smart Bookkeeping Tool",
+  "description": "A comprehensive personal finance tracker with Google Sheets integration, featuring monthly budget carousels, nested categorization, and a quick-tagging system.",
+  "requestFramePermissions": []
+}
